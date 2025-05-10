@@ -42,6 +42,6 @@ while num < 10:
 
 
 ###### Qualquer dúvida ou sugestão, entre em contato em qualquer rede social abaixo.
-[LinkedIn](https://www.linkedin.com/in/paulo-vcr/)
-[E-mail](paulovcr00@gmail.com)
-[GitHub](https://github.com/vcrpaulo00)
+<https://www.linkedin.com/in/paulo-vcr/>
+<paulovcr00@gmail.com>
+<https://github.com/vcrpaulo00>
