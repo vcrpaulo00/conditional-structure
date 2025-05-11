@@ -8,7 +8,7 @@ Visando fixar o tema Estrutura de Controle, criei esse repositório a fim de arm
 
 - **If**: Executa um bloco de código se uma condição for verdadeira. 
 - **If-else**: Executa um bloco de código se a condição for verdadeira e outro bloco se for falsa. 
-- **Switch**: Permite comparar o valor de uma variável com vários casos e executar o bloco de código correspondente ao caso que corresponder
+- **Switch**: Permite comparar o valor de uma variável com vários casos e executar o bloco de código correspondente ao caso.
 
 
 ### Tipos de Estruturas de Repetições:
